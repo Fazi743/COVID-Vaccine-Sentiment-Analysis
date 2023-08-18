@@ -35,4 +35,4 @@ I have generated various visualizations, including:
 
 **Note:** If you have any questions, suggestions, or feedback, please [open an issue](https://github.com/Fazi743/COVID-Vaccine-Sentiment-Analysis/issues) on this repository.
 
-**Disclaimer:** The COVID-19 Vaccine Sentiment Analysis project and its contributors do not endorse or validate any opinions expressed in the tweets analyzed.
+**Disclaimer:** The COVID-19 Vaccine Sentiment Analysis project and its contributors do not endorse or validate any opinions expressed in the tweets analyzed and i have just work on it for practic purpose, this is not my personal project or my creation.
